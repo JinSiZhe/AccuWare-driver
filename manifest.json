@@ -4,8 +4,21 @@
   "drivers": [
     {
     "vendor": "NVIDIA",
-    "productType": "GeForce"
-    
+    "productType": "GeForce",
+    "packageType": "desktop",
+    "version": "576.52",
+    "releaseTag": "nvidia-576.52",
+    "assetName": "nvidia-geforce-576.52-win64.exe",
+    "downloadUrl":"",
+    "sha256":"",
+    "supportedDevicelds":[
+      "2484",
+      "2487"
+    ],
+    "silentArguments":[
+      "-s",
+      "-noreboot"
+    ]
     }
   ]
 }
