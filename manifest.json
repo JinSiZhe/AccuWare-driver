@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-12T00:00:00Z",
+  "drivers": [
+    {
+    "vendor": "NVIDIA",
+    "productType": "GeForce"
+    
+    }
+  ]
+}
